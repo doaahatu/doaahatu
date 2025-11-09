@@ -1,64 +1,81 @@
 <h1 align="center">Hi 👋, I'm Doaa Hatu</h1>
-<h3 align="center">A passionate Computer Engineer</h3>
+<h3 align="center">Computer Engineering Student | Tech Community Leader | Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_USERNAME" />
+  <a href="https://github.com/doaahatu"><img src="https://komarev.com/ghpvc/?username=doaahatu&label=Profile%20Views&color=blue&style=flat" /></a>
 </p>
-
-
-### 📫 How to reach me:
-- Email: **doaahatu11@gmail.com**
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🌟 About Me
+I'm an energetic and passionate Computer Engineering student who enjoys 
+building impactful tech solutions and empowering developer communities.  
+I love solving problems, organizing tech events, and working on meaningful
+projects in software, embedded systems, and digital design.
+
+- 🎓 Studying **Computer Engineering** at Birzeit University (Dean’s List — 3 Semesters)
+- 📍 Based in **Beitunia, Ramallah**
+- 🌍 Languages: **Arabic (Native), English (Fluent), Turkish (Fluent), French (Beginner)**
+- 💡 Passionate about **AI, Hardware Verification, Full-Stack Dev, and Community Building**
+
+---
+
+### 🏅 Leadership & Community Roles
+- **Co-Captain**, AWS Student Club — Birzeit University *(Current)*
+- **Vice Leader**, GDG on Campus — Birzeit University *(Current)*
+- **Technical Member**, GDG Birzeit (2024–2025)
+- **Designer**, IEEE Birzeit (2024)
+- **Marketing Member**, GDSC Birzeit (2022–2023)
+
+---
+
+### 🛠️ Technical Skills
+**Programming:** C, C++, Python, Java, SQL, JavaScript, Verilog, SystemVerilog, Assembly  
+**Web Development:** Flask, HTML, CSS, JS, MySQL  
+**Hardware & Embedded:** ESP32, I2C, UVM, Digital/Analog Design, MSS Sim  
+**Tools:** Git, GitHub, MATLAB, Linux Shell, Quartus, Arduino IDE
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Used | Link |
+|--------|-------------|-----------|------|
+| **UVM Verification of SPN Crypto Unit** | Designed and verified SPN-based cryptographic hardware | SystemVerilog, UVM | 🔗 *Private / Collaborated*
+| **Maze-Solving Robot** | Autonomous robot navigation using Flood-Fill and LiDAR | ESP32, C++, MPU6050, VL53L0X | https://github.com/doaahatu/MazeSolver-Robot
+| **Sanad Society Management System** | Full-stack web system for managing NGO workflows | Flask, MySQL, JS | https://github.com/doaahatu/Sanad-Society-Management-System
+| **16x16 Multiplier (Research)** | Transmission-gate optimized IC multiplier | CMOS Design | Research Project
+
+---
+
+### 📊 GitHub Stats
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=doaahatu&show_icons=true&theme=tokyonight" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doaahatu&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="languages" height="170"/>
+### 🔥 Contribution Streak
+<p>
+<img src="https://streak-stats.demolab.com?user=doaahatu&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔥 Streak:
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="streak"/>
-</p>
+### 🏆 Achievements & Highlights
+- Arab Reading Challenge Finalist — Represented Palestine in Dubai  
+- 850+ Hours of **Community Service**
+- Organizer: IEEEXtreme 2024, PCPC 2024, English Language Olympics 2023  
+- Honor List — Top IT Students (2022)
 
 ---
 
-### 🏆 GitHub Trophies:
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4" alt="trophies"/>
-</p>
+### 📫 Contact Me
+- **Email:** doaahatu11@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/doaa-hatu-3a87462bb  
+- **GitHub:** https://github.com/doaahatu
 
 ---
 
-### 🚀 Featured Projects:
-| Project | Description | Link |
-|--------|-------------|------|
-| Predicting Product Sales | Machine learning & data analytics project | **[View Repo](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)** |
-| Your Project 2 | Short description here | **Repo Link** |
-| Your Project 3 | Short description here | **Repo Link** |
-
----
-
-### 🌱 About Me
-- I love turning data into insights.
-- I enjoy working with Python, SQL, and visualization tools.
-- Always learning something new.
-
----
-
-### 🎯 Fun Quote
-> *“Data is the new oil, and analysis is the engine.”*
+> *“Create with intention. Lead with purpose.”*
