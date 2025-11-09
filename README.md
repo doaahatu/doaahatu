@@ -28,6 +28,40 @@ projects in software, embedded systems, and digital design.
 
 ---
 
+### 🚀 Languages & Tools:
+<p align="left">
+
+<!-- Programming Languages -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40px" alt="C" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40px" alt="C++" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40px" alt="Python" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40px" alt="Java" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40px" alt="JavaScript" />
+
+<!-- Web Dev -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40px" alt="HTML" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40px" alt="CSS" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40px" alt="Flask" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48px" alt="MySQL" />
+
+<!-- Hardware / Embedded -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40px" alt="Arduino" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40px" alt="Linux" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Logo_ESPressif.svg" width="40px" alt="ESP32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40px" alt="MATLAB" />
+
+<!-- Hardware Design & Verification -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/verilog/verilog-original.svg" width="40px" alt="Verilog" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vivado/vivado-original.svg" width="40px" alt="Vivado" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SystemVerilog_logo.svg/512px-SystemVerilog_logo.svg.png" width="40px" alt="SystemVerilog" />
+
+<!-- Tools -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40px" alt="Git" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40px" alt="GitHub" />
+
+</p>
+---
+
 ### 🚀 Featured Projects
 
 | Project | Description | Tech Used | Link |
