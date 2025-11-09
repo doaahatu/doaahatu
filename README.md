@@ -13,19 +13,10 @@ building impactful tech solutions and empowering developer communities.
 I love solving problems, organizing tech events, and working on meaningful
 projects in software, embedded systems, and digital design.
 
-- 🎓 Studying **Computer Engineering** at Birzeit University (Dean’s List — 3 Semesters)
+- 🎓 Studying **Computer Engineering** at Birzeit University 
 - 📍 Based in **Ramallah**
 - 🌍 Languages: **Arabic (Native), English (Fluent), Turkish (Fluent), French (Beginner)**
 - 💡 Passionate about **AI, Hardware Verification, Full-Stack Dev, and Community Building**
-
----
-
-### 🏅 Leadership & Community Roles
-- **Co-Captain**, AWS Student Club — Birzeit University *(Current)*
-- **Vice Leader**, GDG on Campus — Birzeit University *(Current)*
-- **Technical Member**, GDG Birzeit (2024–2025)
-- **Designer**, IEEE Birzeit (2024)
-- **Marketing Member**, GDSC Birzeit (2022–2023)
 
 ---
 
@@ -60,14 +51,6 @@ projects in software, embedded systems, and digital design.
 <p>
 <img src="https://streak-stats.demolab.com?user=doaahatu&theme=tokyonight" />
 </p>
-
----
-
-### 🏆 Achievements & Highlights
-- Arab Reading Challenge Finalist — Represented Palestine in Dubai  
-- 850+ Hours of **Community Service**
-- Organizer: IEEEXtreme 2024, PCPC 2024, English Language Olympics 2023  
-- Honor List — Top IT Students (2022)
 
 ---
 
