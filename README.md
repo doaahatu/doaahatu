@@ -14,7 +14,7 @@ I love solving problems, organizing tech events, and working on meaningful
 projects in software, embedded systems, and digital design.
 
 - 🎓 Studying **Computer Engineering** at Birzeit University (Dean’s List — 3 Semesters)
-- 📍 Based in **Beitunia, Ramallah**
+- 📍 Based in **Ramallah**
 - 🌍 Languages: **Arabic (Native), English (Fluent), Turkish (Fluent), French (Beginner)**
 - 💡 Passionate about **AI, Hardware Verification, Full-Stack Dev, and Community Building**
 
