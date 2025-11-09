@@ -52,7 +52,7 @@ projects in software, embedded systems, and digital design.
 
 <!-- Hardware Design & Verification -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/verilog/verilog-original.svg" width="40px" alt="Verilog" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vivado/vivado-original.svg" width="40px" alt="Vivado" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xilinx/xilinx-original.svg" width="40px" alt="Vivado" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SystemVerilog_logo.svg/512px-SystemVerilog_logo.svg.png" width="40px" alt="SystemVerilog" />
 
 <!-- Tools -->
@@ -60,16 +60,17 @@ projects in software, embedded systems, and digital design.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40px" alt="GitHub" />
 
 </p>
+
 ---
 
 ### 🚀 Featured Projects
 
 | Project | Description | Tech Used | Link |
 |--------|-------------|-----------|------|
-| **UVM Verification of SPN Crypto Unit** | Designed and verified SPN-based cryptographic hardware | SystemVerilog, UVM | 🔗 *Private / Collaborated*
-| **Maze-Solving Robot** | Autonomous robot navigation using Flood-Fill and LiDAR | ESP32, C++, MPU6050, VL53L0X | https://github.com/doaahatu/MazeSolver-Robot
-| **Sanad Society Management System** | Full-stack web system for managing NGO workflows | Flask, MySQL, JS | https://github.com/doaahatu/Sanad-Society-Management-System
-| **16x16 Multiplier (Research)** | Transmission-gate optimized IC multiplier | CMOS Design | Research Project
+| **UVM Verification of SPN Crypto Unit** | Designed and verified SPN-based cryptographic hardware | SystemVerilog, UVM | 🔗 *Private / Collaborated* |
+| **Maze-Solving Robot** | Autonomous robot navigation using Flood-Fill and LiDAR | ESP32, C++, MPU6050, VL53L0X | https://github.com/doaahatu/MazeSolver-Robot |
+| **Sanad Society Management System** | Full-stack web system for managing NGO workflows | Flask, MySQL, JS | https://github.com/doaahatu/Sanad-Society-Management-System |
+| **16x16 Multiplier (Research)** | Transmission-gate optimized IC multiplier | CMOS Design | Research Project |
 
 ---
 
