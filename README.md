@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Doaa Hatu</h1>
-<h3 align="center">A passionate data analyst</h3>
+<h3 align="center">A passionate Computer Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_USERNAME" />
 </p>
 
----
-
-### 🔭 I’m currently working on:
-- Predicting Product Sales (Machine Learning & Data Analysis)
 
 ### 📫 How to reach me:
-- Email: **taimanasser2989@gmail.com**
+- Email: **doaahatu11@gmail.com**
 
 ---
 
